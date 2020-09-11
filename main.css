@@ -30,7 +30,8 @@ header {
             display: inline-block;
             margin-right: 0px;
             padding: 0.5em 2em;
-            box-shadow: 0 0 0 2pt rgb(121, 121, 121);
+            border: 3px solid;
+            border-color: rgb(150, 150, 150);
             border-radius: 50px;
 
     }
