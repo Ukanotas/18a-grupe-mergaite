@@ -9,12 +9,13 @@ header {
     header>img {
                 display: inline-block;
                 float: left;
+                height: 80px;
 
     }
     nav {
         display: inline-block;
         float: right;
-        margin-top: 20px;
+        margin-top: calc( (80px - 40px) / 2 );
         
 
     }
